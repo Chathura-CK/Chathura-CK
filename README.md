@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **RUS Hikers' Club**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **Java**
 
