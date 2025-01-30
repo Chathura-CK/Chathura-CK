@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **chathura.7246@gmail.com**
 
-- ⚡ Fun fact **Ctrl + Z is my best friend – Every developer has relied on the undo button countless times! 🔄💻**
+- ⚡ Fun fact **Ctrl + Z is my best friend 🔄💻**
 
 ---
 
