@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chathura-ck&label=Profile%20views&color=0e75b6&style=flat" alt="chathura-ck" /> </p>
 
-- 🔭 I’m currently working on **RUS Hikers' Club**
+- 🔭 I’m currently working on **RUS Hikers' Club Project**
 
 - 🌱 I’m currently learning **React JS**
 
